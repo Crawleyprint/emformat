@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.emforma.rs/</loc>
+  <priority>1.00</priority>
+  <lastmod>2009-02-16T23:50:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/index.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-16T23:50:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/galerija.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-01-21T00:31:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/kontakt/kontakt.php</loc>
+  <priority>0.80</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/narudzbina/narudzbina.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-01-21T00:17:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/kontakt/index.php</loc>
+  <priority>0.64</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1000-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1001-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1002-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:43+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1003-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1004-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.emforma.rs/galerija/files/page1-1005-full.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-01-21T00:31:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
